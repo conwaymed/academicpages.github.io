@@ -10,7 +10,7 @@ redirect_from:
 
 - Our doctor team was established in 2017, comprising of outstanding doctors in the field of medical imaging from all over the country, with 12 senior titles, 28 intermediate titles, and 30 junior titles. The team is competent enough to handle various work requirements in different scenarios. Starting from early 2017, the team began participating in remote medical diagnosis on the Internet. Subsequently, the team gradually participated in tasks related to artificial intelligence imaging annotation and pathology annotation.
 - Our team is capable of carrying out multiple task labeling simultaneously, including previous labeling tasks such as lung nodules, rib fractures, vertebral bodies and appendages, lung segmentation, coronary artery segmentation, coronary stenosis labeling, and MRI labeling for brain tumors.  
- <img src="../images/breast_annotations.jpg" alt="breast tumor annotations">
+ <img src="../images/breast_annotations.jpg" alt="breast tumor annotations"  width="800" height="400">
 - Currently, our labeling partners mainly include Xingmai under Shanghai Fosun, Beijing Yizhun, Lunqin Medical, medical examination institutions, and some tertiary hospitals' doctors and research institutions. Leveraging our expertise in medical imaging, we aim to build a solid foundation to support the integration of medicine and technology.
 
 
