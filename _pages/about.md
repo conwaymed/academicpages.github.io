@@ -21,7 +21,7 @@ Business Scope
 - Artificial intelligence pathology image annotation: similar to image annotation, conducting pathology-related tasks.
 
 <div align="center">  
-  <img src="../images/PE_CTA.png" alt="PE-CTA" width="600" height="400">
+  <img src="../images/PE_CTA.png" alt="PE-CTA">
       <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
